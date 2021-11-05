@@ -1,0 +1,15 @@
+<div class="wave-container"></div>
+
+<header class="header">
+	<div class="header-logo">
+		<a href="/"><img class="logo-img normal-logo" src="/assets/images/gcinfo-logo-color-350x40.png" alt="gcinfo.org"></a>
+	</div>
+	<nav class="top-nav main-nav">
+		{% for navpage in site.nav.main %}
+			<a class="main-nav-link" href="{{ navpage.path }}">{{ navpage.name }}</a>
+		{% endfor %}
+		{% for navpage in site.nav.second %}
+			<a class="main-nav-link {{ navpage.class | default: '' }}" href="{{ navpage.url }}">{{ navpage.name }}</a>
+		{% endfor %}
+	</nav>
+</header>

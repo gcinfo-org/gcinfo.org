@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<h1 class="home-intro">
+<strong>gcinfo.org</strong> - Information about US Green Card Process.
+</h1>
+
+{{ content }}
+
+<div class="showcase-cols">
+
+		{% capture answerText %}
+			<p>There is no defined process for interfiling medical but this documentation will help you.</p>
+			<ul>
+				<li> <a href="/kb/medical-interfiling/">Interfiling</a></li>
+				<li> <a href="/kb/medical-interfiling/medical">Medical Exam</a></li>
+				<li> <a href="/kb/barcodes/">Barcodes</a></li>	
+				<li> <a href="https://docs.google.com/spreadsheets/d/163tiUMmWJ61gkK_P9KS6wc7c925IAsiXBJUK1nyouX8/edit?usp=sharing">Doctor's List</a></li>				
+				<li> <a href="https://forms.gle/jgKfqeYdCSistcFbA">Recommend a Doctor</a></li>
+			</ul>
+		{% endcapture %}
+		{% include card-showcase.html icon="medical_services" title="Interfiling Medicals" answer=answerText %}
+
+		{% capture answerText %}
+			<p>Process to renew EAD/AP card and AP Travel benefits/limitation/risks.</p>
+			<ul>
+				<li> <a href="/kb/aos-eadap/renewal/">EAD/AP Renewal</a></li>
+				<li> <a href="/kb/aos-eadap/ap-travel/">AP Travel</a></li>
+			</ul>	
+		{% endcapture %}
+		{% include card-showcase.html icon="featured_video" title="AOS EAD/AP Renewal Process" answer=answerText %}
+
+	
+	
+		{% capture answerText %}
+			<p>Direct links for cover letters.</p>
+			<ul>
+				<li> <a href="/kb/medical-interfiling/coverletters/I-485-Interfiling-Medicals-One-Cover-Letter-for-All.txt">Interfiling cover letter for all</a></li>
+				<li> <a href="/kb/medical-interfiling/coverletters/Individual-Cover-Letter.txt">Interfiling cover letter for individual</a></li>
+				<li> <a href="/kb/aos-eadap/coverletters/aos-eadap-coverletter.txt">EAD/AP cover letter</a></li>
+			</ul>
+		{% endcapture %}
+		{% include card-showcase.html icon="get_app" title="Downloads" answer=answerText %}
+
+	
+		{% capture answerText %}
+			<p>Common questions for which everyone is looking answer.</p>
+			<ul>
+				<li> <a href="/kb/faq/gc-faq/">GC FAQ</a></li>
+				<li> <a href="/kb/aos-eadap/ap-travel/">AP Travel FAQ</a></li>
+			</ul>	
+		{% endcapture %}
+		{% include card-showcase.html icon="question_answer" title="Frequently Asked Questions" answer=answerText %}
+
+	
+
+		{% capture answerText %}
+			<p>Share site with you friends, who knows they may have more information and may help to improve this site. It will benefit to everyone.</p>
+		{% endcapture %}
+		{% include card-showcase.html icon="share" title="Share with Friends" answer=answerText %}
+
+		{% capture answerText %}
+	
+			<p>Contribute <a href="https://github.com/gcinfo-org/gcinfo.org">via Github</a> to add more information, or create new pages.</p>
+			<ul> 
+				<li>You can directly modify pages on Github. or</li>
+				<li>You can use contact form and suggest edits.</li>
+			</ul>
+	
+		{% endcapture %}
+		{% include card-showcase.html icon="edit_note" title="How can I help?" answer=answerText %}
+	
+</div>

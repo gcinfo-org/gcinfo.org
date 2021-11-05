@@ -1,0 +1,41 @@
+
+Date: MM/DD/YYYY
+
+To,
+USCIS, 
+<Service Center Address>
+
+
+Sub: Request to Interfile I-693 Medical Report to Pending Form I-485 (Adjustment of Status)
+<create table in MS word or Google Docs>
+--------------------------------------------------------------------------------
+| Name | I-485 Receipts Number | USCIS Alien Number | Applicant                |
+--------------------------------------------------------------------------------
+| Name | I-485 Receipts Number | USCIS Alien Number | Primary                  |
+--------------------------------------------------------------------------------
+| Name | I-485 Receipts Number | USCIS Alien Number | Derivative(Spouse)       |
+--------------------------------------------------------------------------------
+| Name | I-485 Receipts Number | USCIS Alien Number | Derivative(Daughter/Son) |
+--------------------------------------------------------------------------------
+
+
+Dear Sir/Madam,
+
+I, xxxxx, my spouse, xxxxx and our daughter/son, xxxxx request you to interfile our I-693 (Report of Medical Examination and Vaccination Record) form signed by the Civil Surgeon to the pending form I-485.
+Our Adjustment of Status (I-485, Receipts # xxxx; xxxxx) applications are pending.
+
+I am enclosing the following documents in support of my request:
+ - Copies of I-797C, Notice of Action, Receipt of filing I-485
+ - Sealed I-693 Medical Reports signed by the Civil Surgeon
+ - Copies of COVID-19 vaccination record
+ - Copies of biometrics receipt
+ - Copy of driver's license (specify state)
+
+Kindly approve my request to interfile and attach medical reports to the corresponding files.
+
+If you have any questions or need additional information concerning the above, please contact me. Thank you in advance for your kind attention in this matter.
+
+
+Sincerely,
+
+Name and address

@@ -1,0 +1,132 @@
+/* for FAQ section */
+summary {
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-color: #85c4da;
+  color: #333;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  border-radius: 0.25rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+}
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+}
+@keyframes sweep {
+  0%    {opacity: 0; margin-top: -10px}
+  100%  {opacity: 1; margin-top: 0px}
+}
+details > summary::after {
+  position: absolute;
+  content: "+";
+  right: 20px;
+}
+details[open] > summary::after {
+  position: absolute;
+  content: "-";
+  right: 20px;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* end of FAQ section */
+
+/* Table section */
+.styled-table1 {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.styled-table1 caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+.styled-table1 tr {
+  background-color: #fafafa;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+
+.styled-table1 th,
+.styled-table1 td {
+  padding: .625em;
+  text-align: center;
+}
+
+.styled-table1 th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  color: #ffffff;
+  background-color: #009879;
+}
+
+.styled-table1 tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table1 tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table1 tbody tr.active-row {
+    color: #008000;
+    background-color: #FFFFEE;
+}
+
+@media screen and (max-width: 600px) {
+  .styled-table1 {
+    border: 0;
+  }
+
+  .styled-table1 caption {
+    font-size: 1.3em;
+  }
+  
+  .styled-table1 thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  .styled-table1 tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  .styled-table1 td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  .styled-table1 td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    color: #009879;
+  }
+  
+  .styled-table1 td:last-child {
+    border-bottom: 0;
+  }
+}

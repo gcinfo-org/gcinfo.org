@@ -1,0 +1,13 @@
+INTERFILE
+
+I-485 receipt number:
+<add barcode here>
+
+USCIS Alien Number: 
+<add barcode here>
+
+Applicant Name:
+
+Medical Exam Enclosed
+
+PLEASE ADD TO APPLICANT 
