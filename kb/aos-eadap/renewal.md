@@ -16,8 +16,8 @@ $0 (Zero USD)
 3. A print-out of your electronic I-94 form
 4. Two identical passport photographs, write A-Number on back of them. 
 5. A copy of your I-485 form receipt notice
-6. A copy of a valid government-issued identity document, drivers license etc
-7. A copy of passport, biographic information pages (normally they first two and last two) 
+6. A copy of a valid government-issued identity document, driver's license etc
+7. A copy of passport, biographic information pages (normally those are first two and last two) 
 8. [Form G-1145](https://www.uscis.gov/g-1145), E-Notification of Application/Petition Acceptance
 
 ## AP (form I-131) Renewal
@@ -26,8 +26,8 @@ $0 (Zero USD)
 3. A print-out of your electronic I-94 form
 4. Two identical passport photographs, write A-Number on back of them. 
 5. A copy of your I-485 form receipt notice
-6. A copy of a valid government-issued identity document, drivers license etc
-7. A copy of passport, biographic information pages (normally they first two and last two) 
+6. A copy of a valid government-issued identity document, driver's license etc
+7. A copy of passport, biographic information pages (normally those are first two and last two) 
 
 
 ## Documents Order
@@ -41,7 +41,7 @@ $0 (Zero USD)
 6. Copy of I-485 Receipt
 7. I-94 copy (Latest)
 8. Passport Biographic Page
-9. Drivers license
+9. Driver's license
 
 ### I-131
 0. Color divider
@@ -52,11 +52,16 @@ $0 (Zero USD)
 5. Copy of I-485 Receipt
 6. I-94 copy (Latest)
 7. Passport Biographic Page
-8. Drivers license
+8. Driver's license
 
+Put documents in an envelope and write "A-number" and "I-765 application" or "I-131 application" on it. If you are applying for a spouse/kids, then use separate envelopes. 
+
+Don't staple documents, **use [binder clips](https://amzn.to/3AtPzKZ) (smallest 0.6-inch clip) or [paper clips](https://amzn.to/3zp3n8h).**
 
 ## Mailing Address
 Beginning March 26, 2010, applicants must submit Form I-765 to one of the USCIS Lockbox facilities (USCIS Phoenix Lockbox or USCIS Dallas Lockbox).
+
+Cross check address on [USCIS site](https://www.uscis.gov/i-765-addresses) also. Looks for "Pending employment-based Form I-485". Direct link to [current list](https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities).
 
 #### USCIS Phoenix Lockbox
 
@@ -105,12 +110,12 @@ Note: When filing Form I-765 at one of the USCIS Lockbox facilities, you may ele
 
 <details open>
 <summary>When can I renew my EAD and AP?</summary>
-<p>If you want to renew your EAD/AP combo card the you should file both applications simultaneously and no more than 180 days before the expiry date on card</p>
+<p>If you want to renew your EAD/AP combo card then you should file both applications simultaneously and no more than 180 days before the expiry date on card</p>
 </details>
 
 <details>
 <summary>How long is EAD/AP valid for?</summary>
-<p>Now·a·days card is valid for 2 year but previously it was 1 year.</p>
+<p>Now·a·days card is given with 2 year validity, but previously it was 1 year.</p>
 </details>
 
 <details>
