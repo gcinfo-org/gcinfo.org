@@ -41,6 +41,8 @@ nav:
       url: /kb/org/privacy-policy/
       
   medical-interfiling:
+    - name: Interfiling
+      path: /kb/medical-interfiling/
     - name: Medical Exam
       path: /kb/medical-interfiling/medical/     
     - name: Barcodes
