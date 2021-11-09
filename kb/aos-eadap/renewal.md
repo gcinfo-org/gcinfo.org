@@ -29,11 +29,13 @@ $0 (Zero USD)
 6. A copy of a valid government-issued identity document, driver's license etc
 7. A copy of passport, biographic information pages (normally those are first two and last two) 
 
+## AOS EAD/AP Renewal Cover Letter
+- [Download Cover Letter](/kb/aos-eadap/coverletters/aos-eadap-renewal-coverletter.txt)
 
 ## Documents Order
 ### I-765
 0. Two Passport Photos
-1. Cover Letter
+1. [Cover Letter](/kb/aos-eadap/coverletters/aos-eadap-renewal-coverletter.txt)
 2. G-1145 form e-Notification
 3. I-765 Form
 4. Copy of Previous EAD
