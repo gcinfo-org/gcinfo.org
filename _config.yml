@@ -1,6 +1,6 @@
 # Site settings
 title: gcinfo.org - Information about US Green Card process.
-url: https://docs.gcinfo.org
+url: https://gcinfo.org
 baseurl: /
 permalink: pretty
 exclude: [vendor]
