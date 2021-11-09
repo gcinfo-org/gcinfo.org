@@ -111,6 +111,11 @@ Note: When filing Form I-765 at one of the USCIS Lockbox facilities, you may ele
 ## EAD/AP Renewal FAQ
 
 <details open>
+<summary>Can I renew EAD/AP myself or do I need attorney for this?</summary>
+<p>You can do it yourself, you don't need attorney for filing. But if your company is offering attorney help, then go for that.</p>
+</details>
+
+<details>
 <summary>When can I renew my EAD and AP?</summary>
 <p>If you want to renew your EAD/AP combo card then you should file both applications simultaneously and no more than 180 days before the expiry date on card</p>
 </details>
