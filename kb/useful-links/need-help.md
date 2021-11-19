@@ -18,6 +18,14 @@ You can join below Telegram groups or forums if you need any more help.
 - [LIN2190(0,1,2) and LIN21(001-150) Statistics]( https://t.me/joinchat/vxgxgfpD7RIxMTM5)
 - [EB2 to EB3 downgrade info]( https://t.me/LetUsTalkIt)
 - [Travel On EAD/AP without HIB stamping]( https://t.me/EADAP)
+- [Biometric and Beyond]( https://t.me/biometricgroup)
+- [Race 2 Green]( https://t.me/joinchat/8GaGeS4eWzA4MDYx)
+- [LIN EB2/EB3 ]( https://t.me/joinchat/z08CQZvm11oyNDRh)
+- [Cross Chargability] (https://t.me/joinchat/xqy0UeHl6BozZjBh)
+- [Rejection and resubmit (NOID)]( https://t.me/joinchat/HM8DjBKKigeTRMJf)
+- [485 EB Interview]( https://t.me/joinchat/Bm1M73rDbVY0Y2Qx)
+- [MSC 2 LIN Transfers]( https://t.me/ms2ln)
+- [PD2010-i485 Filers]( https://t.me/twenty10_2010_I485_Filers)
 
 ### H1B
 - [Regular H1B - H4 visa](	https://t.me/Regular_H1B_H4_VisaSlotsChecking)
@@ -45,7 +53,8 @@ You can join below Telegram groups or forums if you need any more help.
 
 ### Other
 - [All visa experiences](https://t.me/us_visa_experiences)
-- [Indian passport Renewal, WhatsApp group](https://chat.whatsapp.com/KTQUpACacXwDmS9WTJL1R9)								
+- [Indian passport Renewal, WhatsApp group](https://chat.whatsapp.com/KTQUpACacXwDmS9WTJL1R9)				
+- [General PERM group]( https://chat.whatsapp.com/D2hxKIonys19jeT8KXvdXZ)
 
 ## Forums
 - [Trackitt](https://trackitt.com) (recommend this as user base is very knowledgeable, we are not affiliated with them) 
