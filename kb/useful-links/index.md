@@ -6,5 +6,5 @@ title: "Useful Links"
 
 # Useful Links
 
-- [GC Trackers](/gc-trackers)
-- [Forums and Telegram Groups](/need-help)
+- [GC Trackers](/kb/useful-links/gc-trackers)
+- [Forums and Telegram Groups](/kb/useful-links/need-help)

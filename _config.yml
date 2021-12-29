@@ -69,6 +69,8 @@ nav:
       path: /kb/faq/gc-faq/
     - name: AP Travel FAQ
       path: /kb/aos-eadap/ap-travel/      
+    - name: GC Acronyms
+      path: /kb/faq/acronyms/
       
   useful-links:
     - name: GC Trackers
