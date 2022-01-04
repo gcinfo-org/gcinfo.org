@@ -21,7 +21,7 @@ You can join below Telegram groups or forums if you need any more help.
 - [Biometric and Beyond]( https://t.me/biometricgroup)
 - [Race 2 Green]( https://t.me/joinchat/8GaGeS4eWzA4MDYx)
 - [LIN EB2/EB3 ]( https://t.me/joinchat/z08CQZvm11oyNDRh)
-- [Cross Chargability] (https://t.me/joinchat/xqy0UeHl6BozZjBh)
+- [Cross Chargability](https://t.me/joinchat/xqy0UeHl6BozZjBh)
 - [Rejection and resubmit (NOID)]( https://t.me/joinchat/HM8DjBKKigeTRMJf)
 - [485 EB Interview]( https://t.me/joinchat/Bm1M73rDbVY0Y2Qx)
 - [MSC 2 LIN Transfers]( https://t.me/ms2ln)

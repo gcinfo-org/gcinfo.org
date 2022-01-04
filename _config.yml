@@ -9,6 +9,12 @@ exclude: [vendor]
 markdown: CommonMarkGhPages
 highlighter: rouge
 
+plugins:
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 # Menu layout
 nav:
   main:
