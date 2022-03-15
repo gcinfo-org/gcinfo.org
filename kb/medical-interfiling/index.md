@@ -37,7 +37,7 @@ $0 (Zero USD)
 ## Documents Required
 - Copy of I-797C, Notice of Action, Receipt of filing I-485
 - Sealed I-693 Medical Reports signed by the Civil Surgeon
-- Copy of COVID-19 vaccination record
+- Copy of COVID-19 vaccination record (send this if it is not mentioned on your I-693 form)
 - Copy of biometrics receipt (if your biometrics status is not updated)
 - Copy of driver's license (specify state) or copy of passport
 - Cover letter, see formats below (You can use one letter for each member or single letter for family. Trackitt users confirmed they both work!)
