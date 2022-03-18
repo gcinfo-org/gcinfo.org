@@ -9,6 +9,11 @@ exclude: [vendor]
 markdown: CommonMarkGhPages
 highlighter: rouge
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 plugins:
   - jekyll-mentions
   - jekyll-redirect-from
