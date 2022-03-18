@@ -6,6 +6,7 @@ title: "Green Card FAQ"
 
 # Green Card FAQ
 
+```html
 <details open>
 <summary>Which is a better option, AOS EAD, H4 EAD or H1B?</summary>
 <p>It depends on your situation. Here are pros and cons.
@@ -58,3 +59,4 @@ title: "Green Card FAQ"
     </ul>
   </p>
 </details>
+```
