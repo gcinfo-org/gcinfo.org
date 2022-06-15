@@ -27,6 +27,48 @@ You can join below Telegram groups or forums if you need any more help.
 - [MSC 2 LIN Transfers]( https://t.me/ms2ln)
 - [PD2010-i485 Filers]( https://t.me/twenty10_2010_I485_Filers)
 
+### FO
+- Omaha FO: https://t.me/OmahaFO
+- Phoenix FO: https://t.me/+uHjNzUMAYMQwN2Fh
+- Newark FO: https://t.me/joinchat/G7J7tvNer1F5Q0HZ
+- SJ FO: https://t.me/+WsJyrWd7qv03MmUx
+- LA FO: https://t.me/LAFODiscussion
+- Hialeah FO: https://t.me/+_kBQYZxZtdM1NWVh
+- San Antonio FO: https://t.me/+JvgiWUgeQNE1M2Jh
+- Philadelphia FO: https://t.me/+RvBflyWsjUEwOThh
+- Kendall FO: https://t.me/+HkfVlqhYOV5mMjMx
+- Oklahoma City FO: https://t.me/+GwbXvs1pXSIxNzUx
+- San Fernando FO: @sfvfo
+- NYC FO: https://t.me/+c_hUd2gNiCVmNjZk
+- Miami FO: https://t.me/+Xud_UKuQMdhjMzgx
+- Brooklyn FO: https://t.me/+PesyFHXzPiFjNWVh
+- SFO FO: https://t.me/+Y04NGZd86cA5Yjgx
+- Denver, CO: https://t.me/joinchat/GVlsv2JpAg1AmIdB
+- GA: https://t.me/joinchat/IjfSAYzfMkdTRHWd
+- Atlanta, GA: https://t.me/joinchat/GzH199ZvTgxTIE8-, https://t.me/joinchat/G_LNFANLOqPamu2t
+- Chicago, IL: https://t.me/joinchat/FPyHKe5AVjz7dGvD, https://t.me/joinchat/SpJ35RT8hyl3YebV-3Rrww
+- Indianapolis, IL: https://t.me/joinchat/GLVMSNWcduxorTW5
+- Boston, MA: https://t.me/joinchat/Hj_u9mvKwI84HCEf
+- Baltimore, MD: https://t.me/joinchat/IQSgQ-2absxHxWkP
+- Detroit, MI: https://t.me/joinchat/Ibl6Eicsyhr1h8Kh
+- MN: https://t.me/joinchat/IYA6YmrJfD3qNwgZ, https://t.me/joinchat/V2uz_oT4rNUcS22a
+- Saint Louis, MO: https://t.me/joinchat/Hngwk9xOkMSKvScg
+- Bay Area AOS: http://t.me/joinchat/S5fILmvUbPAzZWJh
+- NC: https://t.me/joinchat/FW6VEfxgXKS1AREV
+- EB1, NC: https://t.me/joinchat/GAiN9iyZ0bMUqIf0
+- NJ: https://t.me/joinchat/G7J7tvNer1F5Q0HZ
+- Cincinnati, OH: https://t.me/joinchat/IvSA5KZFS83ixyyi
+- Columbus, OH: https://t.me/joinchat/H6GdeQIesn2pYDS5
+- TX: https://t.me/joinchat/UGtqhVzg5ne-1Ryr
+- EB1, TX: https://t.me/joinchat/UPnRURf7_abH6ROs1xfAgQ
+- VA: https://t.me/joinchat/Hhzej1wN7RAYzSPv
+- Interfile Receipt MSC, Case in LIN: https://t.me/LINeb2interfile
+- Newark FO: https://t.me/+SvKLJ0oyy-YyNDMx
+- Dallas FO: https://t.me/+wf3JC8eG2jhhOWVh
+- Reno FO: https://t.me/+QKwenlp7TitjMzkx
+- 485 EB-Interview: https://t.me/+z-C_29uqVo0zYmIx
+- Tucson AZ FO: https://t.me/TucsonFO
+
 ### H1B
 - [Regular H1B - H4 visa](	https://t.me/Regular_H1B_H4_VisaSlotsChecking)
 - [Dropbox H1B visa slots](	https://t.me/joinchat/U7ZEg0687P2elB9-_er55Q)
