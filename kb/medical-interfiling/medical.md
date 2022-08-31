@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: pageymn
 menu: medical-interfiling
 title: "Getting I-693 Medical Exams Done"
+last_modified_date: 29-Aug-2022
 ---
 
 # Getting I-693 Medical Exams Done
@@ -17,10 +18,11 @@ You will need vaccination records when you visit the doctor for the first time. 
 - MMR
 - Varicella (Chickenpox) (if you had Chickenpox then you don't need to take vaccine, you can mention this to your doctor. This is fine, many Asians had this.)
 - COVID-19 (from Oct-01-2021)
+- Hepatitis B
 - Flu (Seasonal)
 - If you have any other records, then take those. If you don't have any vaccine records then also fine, your doctor will advice you to take required vaccines.
 
-<font color=red>If you are pregnant or has underlying health condition then don't take any vaccine before consulting Civil Surgeon and your primary physician. They will advice you.</font>
+<p class="red-infobox">If you are pregnant or has underlying health condition then don't take any vaccine before consulting Civil Surgeon and your primary physician. They will advice you.</p>
 
 See also [USCIS Vaccination Requirements page](https://www.uscis.gov/tools/designated-civil-surgeons/vaccination-requirements)
 
@@ -30,7 +32,7 @@ See also [USCIS Vaccination Requirements page](https://www.uscis.gov/tools/desig
 - Make sure all information on I-693 form is correct before your doctor seal that envelope. 
 - If you are thinking to [interfile medical](/kb/medical-interfiling/) then try to take two signed sealed medical reports. Doctor may charge some fees for this. You can use one report for interfiling and other in case if you get RFE. Some people also take 3 reports, just in case if USCIS schedule interview, and they used other 2 reports for RFE, and interfiling.
 
-<font color=red>You should not open or tamper the sealed envelope. Don't write or stick anything on it.</font>
+<p class="red-infobox">You should not open or tamper the sealed envelope. Don't write or stick anything on it.</p>
 
 ## Cost of I-693 Medical Exam
 It can cost anywhere between $150 to $500. Depending on blood work and vaccination cost. Most of the insurances cover blood work and vaccination cost. You can see fees of some doctors [here](https://docs.google.com/spreadsheets/d/163tiUMmWJ61gkK_P9KS6wc7c925IAsiXBJUK1nyouX8/edit?usp=sharing)

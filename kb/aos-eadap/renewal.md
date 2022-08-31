@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageymn
 menu: aos-eadap
 title: "AOS EAD/AP Renewal Process"
 ---
@@ -29,7 +29,13 @@ $0 (Zero USD)
 6. A copy of a valid government-issued identity document, driver's license etc
 7. A copy of passport, biographic information pages (normally those are first two and last two) 
 
-## AOS EAD/AP Renewal Cover Letter
+## Generate EAD/AP Combo Card Renewal Cover Letters
+<p class="green-infobox">Generate EAD/AP Combo Card Renewal cover letter with barcodes, its FREE!</p>
+
+- <a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-family">EAD/AP Combo Card Renewal Single Cover Letter for Family</a>
+- <a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-individual">EAD/AP Combo Card Renewal Cover Letter for Individual Applicant</a>
+
+## AOS EAD/AP Renewal Cover Letter Example Format
 - [Download Cover Letter](/kb/aos-eadap/coverletters/aos-eadap-renewal-coverletter.txt)
 
 ## Documents Order
@@ -58,12 +64,12 @@ $0 (Zero USD)
 
 Put documents in an envelope and write "A-number" and "I-765 application" or "I-131 application" on it. If you are applying for a spouse/kids, then use separate envelopes. 
 
-Don't staple documents, **use [binder clips](https://amzn.to/3AtPzKZ) (smallest 0.6-inch clip) or [paper clips](https://amzn.to/3zp3n8h).**
+<p class="blue-infobox">Don't staple documents, <strong>use <a href="https://amzn.to/3AtPzKZ" >binder clip</a> (smallest 0.6-inch clip) or <a href="https://amzn.to/3zp3n8h">paper clip</a>.</strong></p>
 
 ## Mailing Address
 Beginning March 26, 2010, applicants must submit Form I-765 to one of the USCIS Lockbox facilities (USCIS Phoenix Lockbox or USCIS Dallas Lockbox).
 
-Cross check address on [USCIS site](https://www.uscis.gov/i-765-addresses) also. Looks for "Pending employment-based Form I-485". Direct link to [current list](https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities).
+<p class="red-infobox">Cross check address on <a href="https://www.uscis.gov/i-765-addresses" >USCIS site</a> also. Looks for "Pending employment-based Form I-485". Direct link to <a href="https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities" >current list</a>.</p>
 
 #### USCIS Phoenix Lockbox
 

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: pageymn
 menu: medical-interfiling
 title: "Interfiling Medical Exams for I-485 Process"
+last_modified_date: 15-May-2022
 ---
 
 # Interfiling Medical Exams for I-485 Process
@@ -17,7 +18,7 @@ Interfiling medical (form I-693) is a process where I-485 pending applicant can 
 ## Timing of I-693 Submission 
 [As per USCIS](https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4), Applicants may submit the Form I-693 medical examination report to USCIS:
 - Concurrently with the immigration benefit application; or
-- <font color=green>At any time after filing the immigration benefit application but before USCIS finalizes adjudication of that application.</font> If not submitted simultaneously with the immigration benefit application, applicants may bring the medical examination report to an interview or wait until USCIS issues an RFE requesting the medical examination report.
+- **At any time after filing the immigration benefit application but before USCIS finalizes adjudication of that application.** If not submitted simultaneously with the immigration benefit application, applicants may bring the medical examination report to an interview or wait until USCIS issues an RFE requesting the medical examination report.
 
 ## Filing Process
 - Complete medical and get sealed I-693 Medical Reports signed by the Civil Surgeon 
@@ -49,12 +50,11 @@ $0 (Zero USD)
 - and some people sent cover letter with barcodes on it and that also worked.
 - You must put I-485 receipt number and A number on cover letter.
 
-## For Creating Barcodes
-USCIS uses CODE39 type of barcodes on receipts. You can use below sites for creating such barcodes. You can also verify barcodes using App from Google Play or Apple App store.
-- [Barcode Generator for USCIS receipt number](/kb/barcodes/)
-- [barcode.tec-it.com](https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456) Receipt number barcode example. 
-- [barcode-generator.org](http://www.barcode-generator.org/) use code 39
+## Generate Medical Interfiling Cover Letters
+<p class="green-infobox">Generate USCIS I-693 medical interfiling cover letter with barcodes, its FREE!</p>
 
+- <a href="/kb/generate-letter/medical-interfile-cover-letter-for-family">Medical Interfiling Single Cover Letter for Family</a>
+- <a href="/kb/generate-letter/medical-interfile-cover-letter-for-individual">Medical Interfiling Cover Letter for Individual Applicant</a>
 
 ## Cover Letter Example Formats
 
@@ -62,6 +62,13 @@ USCIS uses CODE39 type of barcodes on receipts. You can use below sites for crea
 - [Individual interfiling cover letter format](coverletters/Individual-Cover-Letter.txt) Ref, trackitt forum See [post #1153](https://www.trackitt.com/usa-discussion-forums/i485-eb/2195323555/interfile-medicals-without-rfe-pd-current-with-eb3-june-bulletin/page/58)
 - [Barcodes Letter Format](coverletters/barcodes-letter.txt)
 - [I-485 AOS Medicals Interfiling Cover Letter Template NBC.docx](coverletters/I-485%20AOS%20Medicals%20Interfiling%20Cover%20Letter%20Template%20NBC.docx)
+
+## For Creating Barcodes
+USCIS uses CODE39 type of barcodes on receipts. You can use below sites for creating such barcodes. You can also verify barcodes using App from Google Play or Apple App store.
+- [Barcode Generator for USCIS receipt number](/kb/barcodes/)
+- [barcode.tec-it.com](https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456) Receipt number barcode example. 
+- [barcode-generator.org](http://www.barcode-generator.org/) use code 39
+
 
 ## How to Arrange Packet Documents
 
@@ -75,7 +82,7 @@ USCIS uses CODE39 type of barcodes on receipts. You can use below sites for crea
 7. Sealed I-693 Medical Reports signed by the Civil Surgeon (Don't tamper envelope by writing or sticking anything on it. USCIS don't accept tampered envelope)
 8. Put primary and derivative medical reports in a single envelope. (if cases are at different location then send them separately)
 
-Don't staple documents, **use [binder clips](https://amzn.to/3AtPzKZ) (smallest 0.6-inch clip) or [paper clips](https://amzn.to/3zp3n8h).**
+<p class="blue-infobox">Don't staple documents, <strong>use <a href="https://amzn.to/3AtPzKZ" >binder clip</a> (smallest 0.6-inch clip) or <a href="https://amzn.to/3zp3n8h">paper clip</a>.</strong></p>
 
 ## USCIS Interfiling Addresses 
 1. Highly recommend sending with FedEx/UPS/Courier since they usually guarantee the delivery time, and you can refund if they missed it.

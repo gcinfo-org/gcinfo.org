@@ -6,7 +6,6 @@ title: "Green Card FAQ"
 
 # Green Card FAQ
 
-```html
 <details open>
 <summary>Which is a better option, AOS EAD, H4 EAD or H1B?</summary>
 <p>It depends on your situation. Here are pros and cons.
@@ -59,4 +58,11 @@ title: "Green Card FAQ"
     </ul>
   </p>
 </details>
-```
+
+<details>
+<summary>Can I interfile I-485 multiple time?</summary>
+<p>
+If the transfer request is granted, the applicant is not permitted to withdraw the request or request transfer of the adjustment application to a third basis at a later time <b>except for possible transfers between the first three employment-based categories</b>.
+<br><a href="https://www.uscis.gov/policy-manual/volume-7-part-a-chapter-8">Ref</a> ( see section: E. Decision on Transfer Request)
+</p>
+</details>

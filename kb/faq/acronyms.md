@@ -35,8 +35,13 @@ title: "Green Card Related Acronyms"
 	<li>AOS - Adjustment of Status (aka 485)</li>
 	<li>EAD - Employment Authorization Document (aka 765)</li>
 	<li>AP - Advance Parole (aka 131)</li>
-	<li>LIN - Nebraska</li>
-	<li>SRC/ TSC - Texas</li>
-	<li>MSC/NBC - National Benefits</li>
+    <li>EAC/VSC - Eastern Adjudication Center (Vermont Service Center) </li>
+    <li>WAC/CSC - Western Adjudication Center (California Service Center) </li>
+    <li>LIN/NSC - Lincoln Service Center (Nebraska Service Center) </li>
+    <li>SRC/TSC - Southern Regional Center (Texas Service Center) </li>
+    <li>MSC/NBC - Missouri Service Center (National Benefits Center) </li>
+    <li>IOE - USCIS Electronic Immigration System (ELIS) </li>
+    <li>YSC - Potomac Service Center </li>	
+	<li>TUB - Transfer the Underlying Basis</li>
 </ul>
 
