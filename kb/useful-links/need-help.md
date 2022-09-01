@@ -40,7 +40,7 @@ You can join below Telegram groups or forums if you need any more help.
 - Philadelphia FO: https://t.me/+RvBflyWsjUEwOThh
 - Kendall FO: https://t.me/+HkfVlqhYOV5mMjMx
 - Oklahoma City FO: https://t.me/+GwbXvs1pXSIxNzUx
-- San Fernando FO: @sfvfo
+- San Fernando FO: https://t.me/SanFernandoValleyFO
 - NYC FO: https://t.me/+c_hUd2gNiCVmNjZk
 - Miami FO: https://t.me/+Xud_UKuQMdhjMzgx
 - Brooklyn FO: https://t.me/+PesyFHXzPiFjNWVh
