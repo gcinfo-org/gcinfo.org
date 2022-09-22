@@ -2,6 +2,7 @@
 layout: page
 menu: aos-eadap
 title: "AOS EAD/AP Card - Travel on AP"
+last_modified_date: 13-Sept-2022
 ---
 
 # Travel on AP
@@ -65,6 +66,11 @@ Once you get AP or EAD/AP combo card, you can travel outside US and come back. Y
 </p>
 </details>
 
+<details>
+<summary>Can I travel abroad on AP while my H1B application is pending?</summary>
+<p>It is not recommended to travel when H1B is pending but if you still need to travel then there is a way. Discuss with your attorney for that option.</a>
+</p>
+</details>
 
 
 
