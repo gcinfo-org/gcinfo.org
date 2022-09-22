@@ -14,10 +14,11 @@ title: "Barcode Generator for USCIS Receipt Number"
 <li>USCIS uses CODE39 type of barcode on I-485 and other receipts. You can check using barcode scanner app from Google Play or Apple App store.</li>
 <li>Don't change 'Barcode Type' and 'Show Text' value if you are creating barcodes for interfiling cover letter</li>
 <li>Right click and Save barcode generated image, add in cover letter</li>
-<li><font color=red>After you generate barcode, make sure to check if it is correct or not using Barcode Scanner app. First read barcode from I-485 receipt using app, this will confirm if app is working or not. It must show barcode number and barcode type. Most popular Android app works well but not iPhone apps, for reading this kind of barcodes.</font></li>
 </ul>
+<p class="red-infobox">After you generate barcode, make sure to check if it is correct or not using Barcode Scanner app. <br><br>First read barcode from I-485 receipt using app, this will confirm if app is working or not. It must show barcode number and barcode type. Most popular Android app works well but not iPhone apps, for reading this kind of barcodes.</p>
 
-<p>If you want to customize barcode, like reduce height, width or font size then check this <a href="/kb/barcodes/custom-barcodes/">custom barcode generator</a></p><br>
+
+<p class="yellow-infobox">If you want to customize barcode, like reduce height, width or font size then check this <a href="/kb/barcodes/custom-barcodes/">custom barcode generator</a></p><br>
 
 <form method="post">
 <label>Enter Receipt or A Number</label>
@@ -33,13 +34,15 @@ title: "Barcode Generator for USCIS Receipt Number"
   <option value="false">No</option>								
 </select> <br><br>
 
-<input type="button" id="generateBarcode" name="generateBarcode" class="button" value="Generate">
+<input class="button" type="button" value="Generate Barcode" onclick="generateuscisbarcode()" />
 </form>
 
 <br><br><br>
 <div align=center>
-<img id="barcode"/>
-<p><font color=green>Right click on barcode image and save</font></p>
-</div><br>
+<img id="uscisbarcode"/>
+<p id="savetxt" class="pgreen" hidden>Right click on barcode image and save<br>or</p>
+<a onclick="saveuscisbarcode()" id="dwnuscisbarcode" href='mybarcode.png' download hidden>Download Barcode Image</a>
+</div>
 
-<p>Barcodes Generator is <a href="https://github.com/lindell/JsBarcode">Powered by JSBarcode</a> </p>
+
+
