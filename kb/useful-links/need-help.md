@@ -87,6 +87,8 @@ You can join below Telegram groups or forums if you need any more help.
 - A No discussion, ONLY EB GC APPROVAL MESSAGES, https://t.me/+uOOhf-gGuog2NzQx
 - Primary GC Derivative Pending, https://t.me/+hfEdqcO1TptmYWFh
 - Derivative file pending, https://t.me/+t-b09i1m5Ak2YjNh
+- Case Remains Pending (CRP) https://t.me/+8fDoZmLWam80ZmRh
+
 
 ### After GC
 - [Life after GC Approvals - To Do/Ideas/Experiences](https://t.me/+3kgh-tH5alxmN2U5)
