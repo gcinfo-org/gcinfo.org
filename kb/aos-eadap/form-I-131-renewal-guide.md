@@ -15,12 +15,19 @@ title: "Form I-131 Renewal Guide"
 - Part 3, 
   - 1, - Date of Intended Departure 
     - you can give just some future date with 3 weeks of expected length of trip
+  - 3.a, - Are you, or any person included in this application, now in exclusion, deportation, removal, or rescission proceedings?
+    - No
+  - 3.b, - Name of DHS Office:
+    - Leave blank
   - 4.a, - Have you ever before been issued a rentry permit or Refugee travel Document:
     - No
   - 4.b, - Date issued
     - Leave blank
   - 4.c, - Disposition(attached,lost,etc):
     - Leave blank
+  - 5 - To the U.S. address shown in Part 1 (2.a through 2.i) of this form.
+    - Check this option
+
 - Part 7, 
   - 1, How many trips do you intend to use this document? 
      - Check, More than one trip
