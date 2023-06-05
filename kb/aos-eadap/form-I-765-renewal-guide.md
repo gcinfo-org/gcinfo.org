@@ -14,4 +14,5 @@ title: "Form I-765 Renewal Guide"
     - Check the box 
 - Part2,  
     - 27,  Eligilibility Category 
-      - C9
+      - C9 Pending adjustment applicants requesting EAD only
+      - (c)(9)(P) Pending adjustment applicants requesting a combo card [Eligibility](https://www.uscis.gov/forms/all-forms/filing-form-i-765-with-other-forms) 
