@@ -69,7 +69,9 @@ Put documents in an envelope and write "A-number" and "I-765 application" or "I-
 ## Mailing Address
 Beginning March 26, 2010, applicants must submit Form I-765 to one of the USCIS Lockbox facilities (USCIS Phoenix Lockbox or USCIS Dallas Lockbox).
 
-<p class="red-infobox">Cross check address on <a href="https://www.uscis.gov/i-765-addresses" >USCIS site</a> also. Looks for "Pending employment-based Form I-485". Direct link to <a href="https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities" >current list</a>.</p>
+<p class="red-infobox">Cross check address on <a href="https://www.uscis.gov/i-765-addresses" >USCIS site</a> also. Look for "Pending employment-based Form I-485". Direct link to <a href="https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities" >current list</a>.</p>
+
+<p class="red-infobox">If you are applying for stand-alone AP (i.e. without renewing EAD) the address is slightly different(Attn:NFB). Check <a href="https://www.uscis.gov/i-131-addresses" >USCIS site</a>. Look for "Pending employment-based Form I-485".</p>
 
 #### USCIS Phoenix Lockbox
 
