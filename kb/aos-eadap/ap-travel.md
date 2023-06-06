@@ -2,7 +2,7 @@
 layout: page
 menu: aos-eadap
 title: "AOS EAD/AP Card - Travel on AP"
-last_modified_date: 13-Sept-2022
+last_modified_date: 02-Feb-2023
 ---
 
 # Travel on AP

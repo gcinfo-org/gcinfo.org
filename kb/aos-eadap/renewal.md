@@ -2,6 +2,7 @@
 layout: pageymn
 menu: aos-eadap
 title: "AOS EAD/AP Renewal Process"
+last_modified_date: 05-Jun-2023
 ---
 
 # AOS EAD/AP Renewal Process
@@ -29,11 +30,22 @@ $0 (Zero USD)
 6. A copy of a valid government-issued identity document, driver's license etc
 7. A copy of passport, biographic information pages (normally those are first two and last two) 
 
-## Generate EAD/AP Combo Card Renewal Cover Letters
-<p class="green-infobox">Generate EAD/AP Combo Card Renewal cover letter with barcodes, its FREE!</p>
+## Generate EAD/AP Renewal Cover Letters
+<p class="green-infobox">Generate EAD/AP Renewal cover letter with barcodes, its FREE!</p>
 
-- <a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-family">EAD/AP Combo Card Renewal Single Cover Letter for Family</a>
-- <a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-individual">EAD/AP Combo Card Renewal Cover Letter for Individual Applicant</a>
+#### for Family
+<ul>
+<li><a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-family">EAD/AP Combo Card Renewal Single Cover Letter for Family</a></li>
+<li><a href="/kb/generate-letter/ap-cover-letter-for-family">AP Renewal Single Cover Letter for Family</a></li>
+<li><a href="/kb/generate-letter/ead-cover-letter-for-family">EAD Renewal Single Cover Letter for Family</a></li>
+</ul>
+
+#### for Individual
+<ul>
+<li><a href="/kb/generate-letter/ead-ap-combo-cover-letter-for-individual">EAD/AP Combo Card Renewal Cover Letter for Individual Applicant</a></li>
+<li><a href="/kb/generate-letter/ap-cover-letter-for-individual">AP Renewal Cover Letter for Individual Applicant</a></li>
+<li><a href="/kb/generate-letter/ead-cover-letter-for-individual">EAD Renewal Cover Letter for Individual Applicant</a></li>
+</ul>
 
 ## AOS EAD/AP Renewal Cover Letter Example Format
 - [Download Cover Letter](/kb/aos-eadap/coverletters/aos-eadap-renewal-coverletter.txt)
@@ -67,16 +79,18 @@ Put documents in an envelope and write "A-number" and "I-765 application" or "I-
 <p class="blue-infobox">Don't staple documents, <strong>use <a href="https://amzn.to/3AtPzKZ" >binder clip</a> (smallest 0.6-inch clip) or <a href="https://amzn.to/3zp3n8h">paper clip</a>.</strong></p>
 
 ## Mailing Address
-Beginning March 26, 2010, applicants must submit Form I-765 to one of the USCIS Lockbox facilities (USCIS Phoenix Lockbox or USCIS Dallas Lockbox).
+Applicants must submit Form I-765 to one of the USCIS Lockbox facilities (USCIS Phoenix Lockbox or USCIS Dallas Lockbox). 
 
-<p class="red-infobox">Cross check address on <a href="https://www.uscis.gov/i-765-addresses" >USCIS site</a> also. Look for "Pending employment-based Form I-485". Direct link to <a href="https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities" >current list</a>.</p>
+<p class="red-infobox">Cross check address on <a href="https://www.uscis.gov/i-765-addresses" >USCIS site</a> also. Looks for "Pending employment-based Form I-485". Direct link to <a href="https://www.uscis.gov/forms/forms-information/uscis-phoenix-and-dallas-lockbox-facilities" >current list</a>.</p>
 
 <p class="red-infobox">If you are applying for stand-alone AP (i.e. without renewing EAD) the address is slightly different(Attn:NFB). Check <a href="https://www.uscis.gov/i-131-addresses" >USCIS site</a>. Look for "Pending employment-based Form I-485".</p>
+
+As per Table updated by USCIS on 03/30/2023
 
 #### USCIS Phoenix Lockbox
 
 Mail your application to the USCIS Phoenix Lockbox if you live in one of the following States: 
-<p style="color:#006699">Alaska, Arizona, California, Colorado, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, North Dakota, Ohio, Oregon, South Dakota, Utah, Washington, Wisconsin, Wyoming, Guam, or the Commonwealth of Northern Mariana Islands.</p>
+<p style="color:#006699">Alaska, Arizona, California, Colorado, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Maryland, Michigan, Minnesota, Missouri, Montana, Nebraska, Nevada, North Dakota, Ohio, Oregon, Pennsylvania, South Dakota, Utah,Washington, Wisconsin, Wyoming, Guam, or the Northern Mariana Islands.</p>
 
 <table class="styled-table1">
     <thead>
@@ -87,8 +101,8 @@ Mail your application to the USCIS Phoenix Lockbox if you live in one of the fol
     </thead>
     <tbody>
         <tr>
-            <td scope="row" data-label="for USPS">USCIS<br>PO Box 21281<br>Phoenix, AZ 85036</td>
-            <td data-label="For FedEx/UPS etc">USCIS<br>Attn:  AOS<br>1820 E. Skyharbor Circle S, <br>Suite 100<br>Phoenix, AZ 85034</td>
+            <td scope="row" data-label="for USPS">USCIS<br>Attn: NFB<br>PO Box 21281<br>Phoenix, AZ 85036-1281</td>
+            <td data-label="For FedEx/UPS etc">USCIS<br>Attn: NFB (Box 21281)<br>2108 E. Elliot Rd.<br>Tempe, AZ 85284-1806</td>
         </tr>
     </tbody>
 </table>
@@ -97,7 +111,7 @@ Mail your application to the USCIS Phoenix Lockbox if you live in one of the fol
 #### USCIS Dallas Lockbox
 
 Mail your application to the USCIS Dallas Lockbox if you live in one of the following States: 
-<p style="color:#006699">Alabama, Arkansas, Connecticut, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, Oklahoma, Tennessee, Texas, Vermont, Virginia, U.S. Virgin Islands, or West Virginia.</p>
+<p style="color:#006699">Alabama, Arkansas, Connecticut, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maine, Massachusetts, Mississippi, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Puerto Rico, RhodeIsland, South Carolina, Oklahoma, Tennessee, Texas, Vermont, Virginia, U.S. Virgin Islands, or West Virginia.</p>
 
 <table class="styled-table1">
     <thead>
@@ -108,8 +122,8 @@ Mail your application to the USCIS Dallas Lockbox if you live in one of the foll
     </thead>
     <tbody>
         <tr>
-            <td scope="row" data-label="for USPS">USCIS<br>PO Box 660867<br>Dallas, TX 75266</td>
-            <td data-label="For FedEx/UPS etc">USCIS<br>Attn: AOS<br>2501 S. State Hwy.<br>121 Business, Suite 400<br>Lewisville, TX 75067</td>
+            <td scope="row" data-label="for USPS">USCIS<br>Attn: NFB<br>PO Box 660867<br>Dallas, TX 75266-0867</td>
+            <td data-label="For FedEx/UPS etc">USCIS<br>Attn: NFB (Box 660867)<br>2501 S. State Hwy.<br>121 Business, Suite 400<br>Lewisville, TX 75067-8003</td>
         </tr>
     </tbody>
 </table>

@@ -127,6 +127,6 @@ You can join below Telegram groups or forums if you need any more help.
 - [redbus2us](https://forum.redbus2us.com/)
 - [immihelp](https://www.immihelp.com/forum/)
 - [murthy](http://forum.murthy.com/)
-- [am22tech](https://forum.am22tech.com)
+
 
 
