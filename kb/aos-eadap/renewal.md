@@ -75,12 +75,12 @@ $0 (Zero USD)
 8. Driver's license
 
 ## If you have a combo card (single card acting as EAD and AP)
-Write "A-number" and mention "Application for I-765 and I-131 combo card" and put documents in the same envelope.
+Write "A-number" and mention "Application for I-765 and I-131 (combo card)" and put documents in the same envelope.
 
 ## If you have separate cards and renewing one or both of them
 Write "A-number" and "I-765 application" or "I-131 application" based on what you are applying for and use separate envelopes for each application type.
 
-If you are applying for a spouse/kids, **DO NOT** put applications of all individuals in one envelope
+If you are applying for a spouse/kids, **DO NOT** put applications of all individuals in one envelope and make different envelopes per individual applicant.
 
 <p class="blue-infobox">Don't staple documents, <strong>use <a href="https://amzn.to/3AtPzKZ" >binder clip</a> (smallest 0.6-inch clip) or <a href="https://amzn.to/3zp3n8h">paper clip</a>.</strong></p>
 
