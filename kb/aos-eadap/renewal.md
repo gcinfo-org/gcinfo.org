@@ -9,7 +9,12 @@ last_modified_date: 05-Jun-2023
 AOS applicants can request to renew the EAD and/or AP up to 180 days prior to the expiration dates of the EAD and/or AP.
 
 ## USCIS Processing Fees
-$0 (Zero USD)
+Please check fees for I-765 (EAD) at https://www.uscis.gov/g-1055?form=i-765 
+Please check fees for AP at https://www.uscis.gov/g-1055?form=i-131 
+
+(Fees varies for EAD, AP renewal based on date of initial I-485 application and adjustment of status pending)
+
+
 
 ## EAD (form I-765) Renewal
 1. Complete [I-765 form](https://www.uscis.gov/sites/default/files/document/forms/i-765.pdf) and sign, download and guide is [here](/kb/aos-eadap/form-I-765-renewal-guide/). 
